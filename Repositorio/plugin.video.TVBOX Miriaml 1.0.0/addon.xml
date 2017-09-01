@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.TV Box Miriam"
-       name="[COLOR yellow]TV Box Miriam[/COLOR]"
-       version="1.0.1"
+<addon id="plugin.video.TV Box MiriaM"
+       name="[COLOR yellow]TV Box MiriaM[/COLOR]"
+       version="1.0.3"
        provider-name="Da Silva">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
